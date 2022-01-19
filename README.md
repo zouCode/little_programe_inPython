@@ -8,3 +8,9 @@ Here are some little programs in python made by myself to workout some problems 
 
 
 Tips:本人新手，github上传文件最大不超过25M，用python的打包生成的exe文件较大，故而放到百度云链接，分享给大家。另外，大家打开程序的时候可能较慢，稍等一会就好了，听网上的大佬们说python打包的程序exe包含很多链接文件，就有点慢。新手，着实不太懂。链接：https://pan.baidu.com/s/1yJ5uvoy80Sc0a7oRtecnJw & 提取码：4bdi
+![image](https://github.com/zouCode/little_programe_inPython/blob/main/imag/1.jpg)
+![image2](https://github.com/zouCode/little_programe_inPython/blob/main/imag/2.jpg)
+
+![image3](https://github.com/zouCode/little_programe_inPython/blob/main/imag/3.jpg)
+![image4](https://github.com/zouCode/little_programe_inPython/blob/main/imag/4.jpg)
+图片中圈圈打码同学名字，保护隐私~
